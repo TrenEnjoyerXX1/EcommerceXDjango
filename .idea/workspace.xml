@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03fef313-c793-4b74-96f7-2f9785a5f687" name="Changes" comment="first Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/Season_Finale_Ecommerce_X_Django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Season_Finale_Ecommerce_X_Django/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Season_Finale_Ecommerce_X_Django/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Season_Finale_Ecommerce_X_Django/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Season_Finale_Ecommerce_X_Django/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Season_Finale_Ecommerce_X_Django/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/filters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/error_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Season_Finale_Ecommerce_X_Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Season_Finale_Ecommerce_X_Django/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Season_Finale_Ecommerce_X_Django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Season_Finale_Ecommerce_X_Django/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -124,12 +114,40 @@
       <updated>1725217777366</updated>
       <workItem from="1725217780963" duration="96000" />
       <workItem from="1725288041722" duration="12719000" />
-      <workItem from="1725352048990" duration="4616000" />
+      <workItem from="1725352048990" duration="6971000" />
     </task>
+    <task id="LOCAL-00001" summary="first Commit">
+      <option name="closed" value="true" />
+      <created>1725358638609</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725358638609</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first Commit">
+      <option name="closed" value="true" />
+      <created>1725358650198</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725358650198</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first Commit" />
