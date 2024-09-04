@@ -1,0 +1,69 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"03fef313-c793-4b74-96f7-2f9785a5f687\" name=\"Changes\" comment=\"Error Exception Handling - 404 500 Errors\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"DjangoConsoleOptions\" custom-start-script=\"import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)\">\r\n    <option name=\"myCustomStartScript\" value=\"import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"TrenEnjoyerXX1 &lt;a.omar1413@student.aast.edu&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"SET_USER_NAME_GLOBALLY\" value=\"false\" />\r\n  </component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/TrenEnjoyerXX1/EcommerceXDjango.git\",\r\n    \"accountId\": \"acdcbc4d-deea-44c8-b0f3-e96d685db09b\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 5\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2lTxHF1YHBYRdCsUHP6hUm9HYyA\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Django Server.Season_Finale_Ecommerce_X_Django.executor\": \"Run\",\r\n    \"HTTP Request.generated-requests | #1.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenDjangoStructureViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.pycharm.django.structure.promotion.once.per.project\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"editor.preferences.fonts.default\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Amr\\PycharmProjects\\Season_Finale_Ecommerce_X_Django\\product\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Django Server.Season_Finale_Ecommerce_X_Django\">\r\n    <configuration name=\"generated-requests | #1\" type=\"HttpClient.HttpRequestRunConfigurationType\" factoryName=\"HTTP Request\" temporary=\"true\" nameIsGenerated=\"true\" path=\"$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http\" requestIdentifier=\"#1\" runType=\"Run single request\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"Season_Finale_Ecommerce_X_Django\" type=\"Python.DjangoServer\" factoryName=\"Django server\">\r\n      <module name=\"Season_Finale_Ecommerce_X_Django\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n        <env name=\"DJANGO_SETTINGS_MODULE\" value=\"Season_Finale_Ecommerce_X_Django.settings\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"launchJavascriptDebuger\" value=\"false\" />\r\n      <option name=\"port\" value=\"8000\" />\r\n      <option name=\"host\" value=\"localhost\" />\r\n      <option name=\"additionalOptions\" value=\"\" />\r\n      <option name=\"browserUrl\" value=\"\" />\r\n      <option name=\"runTestServer\" value=\"false\" />\r\n      <option name=\"runNoReload\" value=\"false\" />\r\n      <option name=\"useCustomRunCommand\" value=\"false\" />\r\n      <option name=\"customRunCommand\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"HTTP Request.generated-requests | #1\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153\" />\r\n        <option value=\"bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"03fef313-c793-4b74-96f7-2f9785a5f687\" name=\"Changes\" comment=\"\" />\r\n      <created>1725217777366</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1725217777366</updated>\r\n      <workItem from=\"1725217780963\" duration=\"96000\" />\r\n      <workItem from=\"1725288041722\" duration=\"12719000\" />\r\n      <workItem from=\"1725352048990\" duration=\"7794000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"first Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1725358638609</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1725358638609</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"first Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1725358650198</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1725358650198</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Error Exception Handling - 404 500 Errors\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1725360949859</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1725360949859</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Error Exception Handling - 404 500 Errors\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1725361678683</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1725361678683</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"first Commit\" />\r\n    <MESSAGE value=\"Error Exception Handling - 404 500 Errors\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Error Exception Handling - 404 500 Errors\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision b5fef3f93372bee7ba53b6bc1937067d81015eb4)
++++ b/.idea/workspace.xml	(date 1725362116073)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="03fef313-c793-4b74-96f7-2f9785a5f687" name="Changes" comment="Error Exception Handling - 404 500 Errors" />
++    <list default="true" id="03fef313-c793-4b74-96f7-2f9785a5f687" name="Changes" comment="." />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -29,12 +29,18 @@
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+     <option name="SET_USER_NAME_GLOBALLY" value="false" />
+   </component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "https://github.com/TrenEnjoyerXX1/EcommerceXDjango.git",
+-    "accountId": "acdcbc4d-deea-44c8-b0f3-e96d685db09b"
++  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++  "lastFilter": {
++    "state": "OPEN",
++    "assignee": "TrenEnjoyerXX1"
+   }
+ }]]></component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/TrenEnjoyerXX1/EcommerceXDjango.git&quot;,
++    &quot;accountId&quot;: &quot;acdcbc4d-deea-44c8-b0f3-e96d685db09b&quot;
++  }
++}</component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 5
+ }</component>
+@@ -51,7 +57,6 @@
+     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+-    "git-widget-placeholder": "main",
+     "ignore.virus.scanning.warn.message": "true",
+     "node.js.detected.package.eslint": "true",
+     "node.js.detected.package.tslint": "true",
+@@ -99,6 +104,8 @@
+     <recent_temporary>
+       <list>
+         <item itemvalue="HTTP Request.generated-requests | #1" />
++        <item itemvalue="HTTP Request.generated-requests | #1" />
++        <item itemvalue="HTTP Request.generated-requests | #1" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -174,6 +181,7 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="first Commit" />
+     <MESSAGE value="Error Exception Handling - 404 500 Errors" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Error Exception Handling - 404 500 Errors" />
++    <MESSAGE value="." />
++    <option name="LAST_COMMIT_MESSAGE" value="." />
+   </component>
+ </project>
+\ No newline at end of file
