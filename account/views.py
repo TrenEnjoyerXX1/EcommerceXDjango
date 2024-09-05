@@ -32,7 +32,7 @@ def register(request):
                     )
         else:
             return Response(
-                {'eroor':'This email already exists!' },
+                {'error':'This email already exists!' },
                     status=status.HTTP_400_BAD_REQUEST
                     )
     else:
@@ -41,6 +41,22 @@ def register(request):
 @api_view(['GET'])
 @permission_classes([IsAuthenticated])
 def current_user(request):
-    user = SingUpSerializer(request.user)
+    user = UserSerializer(request.user,many=False)
     return Response(user.data)
 
+@api_view(['PUT'])
+@permission_classes([IsAuthenticated])
+def update_user(request):
+    user = request.user
+    data = request.data
+    user.first_name = data['first_name']
+    user.last_name = data['last_name']
+    user.username = data['email']
+    user.email = data['email']
+
+    if data['password'] != "":
+        user.password = make_password(data['password'])
+
+    user.save()
+    serializer = UserSerializer(user,many=False)
+    return Response(serializer.data)

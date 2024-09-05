@@ -8,11 +8,12 @@ class Category(models.TextChoices):
       FOOD='Food'
       KIDS='Kids'
       HOME='Home'
+      VEHICLES='Vehicles'
 
 class Product(models.Model):
      name = models.CharField(max_length=100,default='',blank=False)
      description = models.TextField(max_length=1000,default='',blank=False)
-     price = models.DecimalField(max_digits=7,blank=False,default=0,decimal_places=2)
+     price = models.DecimalField(max_digits=11,blank=False,default=0,decimal_places=2)
      brand = models.CharField(max_length=200,default='',blank=False)
      category = models.CharField(max_length=40,blank=False,choices=Category.choices)
      ratings = models.DecimalField(max_digits=3,blank=False,default=0,decimal_places=2)
