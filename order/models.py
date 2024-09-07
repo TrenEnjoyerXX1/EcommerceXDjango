@@ -44,3 +44,5 @@ class OrderItem(models.Model):
     quantity = models.IntegerField(default=1)
     price = models.DecimalField(max_digits=7,decimal_places=2,default=1)
     name = models.CharField(max_length=100,default="")
+
+
