@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3a202de-c8c4-4b7a-af94-02dd24e19ebf" name="Changes" comment="IsAuthenticated, permissions (Create, Read, Show, Update &amp; Delete )">
+    <list default="true" id="e3a202de-c8c4-4b7a-af94-02dd24e19ebf" name="Changes" comment="Review &amp; Rating API">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Season_Finale_Ecommerce_X_Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Season_Finale_Ecommerce_X_Django/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +142,8 @@
       <workItem from="1725461907221" duration="1381000" />
       <workItem from="1725471089968" duration="8469000" />
       <workItem from="1725556172320" duration="7784000" />
-      <workItem from="1725622631422" duration="2399000" />
+      <workItem from="1725622631422" duration="2722000" />
+      <workItem from="1725697849033" duration="4886000" />
     </task>
     <task id="LOCAL-00001" summary="IsAuthenticated, permissions (Create, Read, Show, Update &amp; Delete )">
       <option name="closed" value="true" />
@@ -153,15 +153,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725567708620</updated>
     </task>
-    <task id="LOCAL-00002" summary="first Commit">
+    <task id="LOCAL-00002" summary="Review &amp; Rating API">
       <option name="closed" value="true" />
-      <created>1725358650198</created>
+      <created>1725625327072</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1725358650198</updated>
+      <updated>1725625327072</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00003" summary="Review &amp; Rating API">
+      <option name="closed" value="true" />
+      <created>1725625336879</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725625336879</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +189,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first Commit" />
     <MESSAGE value="IsAuthenticated, permissions (Create, Read, Show, Update &amp; Delete )" />
-    <option name="LAST_COMMIT_MESSAGE" value="IsAuthenticated, permissions (Create, Read, Show, Update &amp; Delete )" />
+    <MESSAGE value="Review &amp; Rating API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Review &amp; Rating API" />
   </component>
 </project>
