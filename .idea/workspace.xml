@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3a202de-c8c4-4b7a-af94-02dd24e19ebf" name="Changes" comment="Order - Serializer, Views (Create, Read, Show, Update &amp; Delete )">
+    <list default="true" id="e3a202de-c8c4-4b7a-af94-02dd24e19ebf" name="Changes" comment="Admin Control">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/order/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,7 +140,7 @@
       <workItem from="1725556172320" duration="7784000" />
       <workItem from="1725622631422" duration="2722000" />
       <workItem from="1725697849033" duration="7600000" />
-      <workItem from="1725713759573" duration="3962000" />
+      <workItem from="1725713759573" duration="4275000" />
     </task>
     <task id="LOCAL-00001" summary="IsAuthenticated, permissions (Create, Read, Show, Update &amp; Delete )">
       <option name="closed" value="true" />
@@ -197,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725717500570</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Admin Control">
+      <option name="closed" value="true" />
+      <created>1725718075064</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725718075064</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +230,7 @@
     <MESSAGE value="Email Mailtrap - UserProfile, Forgot Reset Password" />
     <MESSAGE value="Order Model, Order Item Model" />
     <MESSAGE value="Order - Serializer, Views (Create, Read, Show, Update &amp; Delete )" />
-    <option name="LAST_COMMIT_MESSAGE" value="Order - Serializer, Views (Create, Read, Show, Update &amp; Delete )" />
+    <MESSAGE value="Admin Control" />
+    <option name="LAST_COMMIT_MESSAGE" value="Admin Control" />
   </component>
 </project>
